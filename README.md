@@ -1,4 +1,4 @@
-## Login System with Python Flask and MySQL for Beginners
+## Login System with Python Flask and MySQL
 
 ### Requirements
 
