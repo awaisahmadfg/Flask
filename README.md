@@ -1,4 +1,4 @@
-## Login System with Python Flask and MySQL
+## User Authentication System with Python Flask and MySQL
 
 ### Requirements
 
