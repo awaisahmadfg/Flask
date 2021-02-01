@@ -7,7 +7,7 @@
 <p> - Install Python Flask with the command:<code>  pip install flask </code> </p> 
 <p> - Install Flask-MySQLdb with the command: <code> pip install flask-mysqldb </code> </p>
 
-<b> <center> Mojor operations handled.  </center> </b>
+<b> <center> Major operations handled.  </center> </b>
 <p style="text-align:justify;">
 1). Form Design — Design a login and registration form with HTML5 and CSS3.<br>
 2). Templates — Create Flask templates with HTML and Python.<br>
